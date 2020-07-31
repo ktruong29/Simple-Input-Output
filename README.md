@@ -1,6 +1,6 @@
 # Integer I/O Desmonstration in X86
 ---
-The purpose of this simple I/Obprogram is to become familiar with how to perform
+The purpose of this simple I/O program is to become familiar with how to perform
 simple I/O operations and basic arithmetic operations in X86 language.
 
 This program will do the following:
@@ -24,7 +24,5 @@ executable file.
 
 ## Instruction on how to run the program
 ---
-*  chmod +x run.sh              
-*  ./run.sh
-  - OR
-*  sh run.sh
+1. chmod +x run.sh then ./run.sh              
+2. sh run.sh
