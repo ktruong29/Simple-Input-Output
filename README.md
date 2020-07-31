@@ -1,12 +1,12 @@
 # Integer I/O Desmonstration in X86
 ---
-The purpose of this simple program is to become familiar with how to perform
+The purpose of this simple I/Obprogram is to become familiar with how to perform
 simple I/O operations and basic arithmetic operations in X86 language.
 
 This program will do the following:
-  Input 2 integers
-  Computes and displays the sum of those two inputs
-  Computes and displays the product of those two inputted integers.
+* Input 2 integers
+* Computes and displays the sum of those two inputs
+* Computes and displays the product of those two inputted integers.
 
 This program has three different source files:
 * A driver file, which is written in C/C++ language.
@@ -20,11 +20,11 @@ executable file.
 ## Prerequisites
 ---
 * A virtual machine
-* Install g++ and nasm 
+* Install g++ and nasm
 
 ## Instruction on how to run the program
 ---
 *  chmod +x run.sh              
 *  ./run.sh
-    OR
+  - OR
 *  sh run.sh
