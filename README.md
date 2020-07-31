@@ -1,4 +1,4 @@
-#Integer I/O Desmonstration in X86
+# Integer I/O Desmonstration in X86
 ---
 The purpose of this simple program is to become familiar with how to perform
 simple I/O operations and basic arithmetic operations in X86 language.
@@ -19,12 +19,12 @@ executable file.
 
 ## Prerequisites
 ---
-* A virtual machine (Runs well with Ubuntu 18.04 and Ubuntu 19.04)
+* A virtual machine
+* Install g++ and nasm 
 
 ## Instruction on how to run the program
 ---
 *  chmod +x run.sh              
 *  ./run.sh
-_OR_
+    OR
 *  sh run.sh
-
